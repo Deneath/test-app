@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="converter_try_again_button_caption">Try again</string>
+</resources>
